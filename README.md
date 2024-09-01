@@ -1,16 +1,16 @@
-##NAME:
-##COMPANY:
-##ID:
-##DOMAIN:
-##DURATION:
-##MENTOR:
-**Overview of the project
-** Project:Exploratory java programming on Online Banking System
+## ***NAME**:
+## **COMPANY**:
+## **ID:
+## **DOMAIN:
+## **DURATION:
+## **MENTOR:
+## **Overview of the project
+## ** Project:Exploratory java programming on Online Banking System
 
-##**Objective:**  
+## **Objective:**  
 To develop a Java-based online banking system that provides users with secure and efficient banking services. The system will enable users to manage their accounts, perform financial transactions, and access personal and financial information conveniently.
 
-##**Modules:**
+## **Modules:**
 
 ## **Account Creation:**
    - **Features:**
