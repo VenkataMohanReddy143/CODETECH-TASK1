@@ -4,8 +4,19 @@
 ## DOMAIN:JAVA PROGRAMMING
 ## DURATION:
 ## MENTOR:
-## Overview of the project
+## Overview of the project:
 ## Project:Exploratory java programming on Online Banking System
+![Screenshot 2024-09-01 141125](https://github.com/user-attachments/assets/43747a3a-85c0-4481-9e74-96e8292d99b4)
+
+![Screenshot 2024-09-01 141146](https://github.com/user-attachments/assets/ade59884-8112-4bf8-98fa-44a50f4db545)
+
+![Screenshot 2024-09-01 141204](https://github.com/user-attachments/assets/91a84dbe-e42d-4ed8-a6cd-6adabc5a5d11)
+
+![Screenshot 2024-09-01 141226](https://github.com/user-attachments/assets/6cd53123-68ab-497d-a033-a50220a7d68f)
+
+
+
+
 
 ## Objective:  
 To develop a Java-based online banking system that provides users with secure and efficient banking services. The system will enable users to manage their accounts, perform financial transactions, and access personal and financial information conveniently.
