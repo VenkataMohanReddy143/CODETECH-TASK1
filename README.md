@@ -1,9 +1,9 @@
 ## NAME:AVULA.VENKATA MOHAN REDDY
-## COMPANY:CODETECH IT SOLUTIONS
-## ID:
+## COMPANY:CODETECH IT SOLUTIONS PVT.LTD
+## ID:CT08DS7283
 ## DOMAIN:JAVA PROGRAMMING
-## DURATION:
-## MENTOR:
+## DURATION:AUGUST 20TH,2024 TO SEPTEMBER 20TH,2024.
+## MENTOR:NEELA SANTHOSH KUMAR
 ## Overview of the project:
 ## Project:Exploratory java programming on Online Banking System
 ![Screenshot 2024-09-01 141125](https://github.com/user-attachments/assets/43747a3a-85c0-4481-9e74-96e8292d99b4)
